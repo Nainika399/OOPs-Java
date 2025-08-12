@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class metertofeet{
+    public static void main(String[] args) {
+        
+        Scanner sc=new Scanner(System.in);
+        System.out.println("enter value in meter:");
+        double meter =sc.nextFloat();
+        meter =meter*3.28;
+        System.out.println("Value in feet:"+meter);
+
+    }
+}
