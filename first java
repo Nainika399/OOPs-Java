@@ -1,0 +1,7 @@
+public class First {
+    public static void main(String[] args) {
+        System.out.println("Name : Nainika");
+        System.out.println("Address : RK puram , Sector-1");
+        
+    }
+}
